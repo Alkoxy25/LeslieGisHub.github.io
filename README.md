@@ -3,6 +3,7 @@ PURPOSE:The purpose of this project is to determine the level of contamination o
 YEAR:2022
 
 FIgure1 shows the Damang mine infrastructure at Abosso and the 3 location soils were sampled
-![image](https://github.com/user-attachments/assets/524c2463-d973-44e4-aab0-d5649fd0725f)
-Figure2 shows measures of central tendencies of one of the locations visited for soil sample
-![Figure_1](https://github.com/user-attachments/assets/817313b1-7805-488f-9b29-44a63f00af46)
+![Figure_1](https://github.com/user-attachments/assets/90d414ab-7680-4d65-8184-d8c22a8f003f)
+Figure3 shows measures of central tendencies of one of the locations visited for soil sample
+![Figure3](https://github.com/user-attachments/assets/67959229-c878-41d9-bb99-2de750fb4eea)
+
