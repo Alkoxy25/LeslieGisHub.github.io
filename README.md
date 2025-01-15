@@ -1,7 +1,7 @@
 # GIS Portfolio
 
  Table of Contents
-- [Project I: Soil, Water, and Crop Quality Assessment](#project-i-soil-water-and-crop-quality-assessment)
+- [Project I: Soil, Water, and Crop Quality Assessment](#project-i-soil-water-and-crop-quality-assessment-at-Abosso-Goldfields)
 - [Project II: Namdini Gold Project](#project-ii-namdini-gold-project)
 
 ---
