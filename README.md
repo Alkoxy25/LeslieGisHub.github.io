@@ -11,3 +11,5 @@ FIgure1 shows the Damang mine infrastructure at Abosso and the 3 location soils 
 Figure3 shows measures of central tendencies of one of the locations visited for soil sample
 ![Figure3](https://github.com/user-attachments/assets/67959229-c878-41d9-bb99-2de750fb4eea)
 
+ASDFGHJKL;
+JUGGFE
