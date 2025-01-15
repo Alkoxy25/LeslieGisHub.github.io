@@ -1,7 +1,9 @@
 GIS PORTFOLIO
 
 PROJECT NAME : FINAL YEAR PROJECT KNUST (SOIL, WATER AND CROP QUALITY ASSESMENT ON RECLAIMED TAILINGS DAM SITES AT ABOSSO GOLDFIELDS)
-PURPOSE:The purpose of this project is to determine the level of contamination of soil and water by heavy metals and assess the health risk associated with the consumption of crops harvested from the reclaimed damsites at Abosso Goldfields.Below is a few maps created during the project using arcgispro
+PURPOSE:The purpose of this project is to determine the level of contamination of soil and water by heavy metals and assess the health risk associated with the consumption of crops harvested from the reclaimed 
+damsites at Abosso Goldfields.Below is a few maps created during the project using arcgispro
+
 YEAR:2022
 
 FIgure1 shows the Damang mine infrastructure at Abosso and the 3 location soils were sampled
