@@ -1,20 +1,20 @@
 # GIS Portfolio
 
-## Table of Contents
-- [Project I: Soil, Water, and Crop Quality Assessment](#project-i-soil-water-and-crop-quality-assessment-Abosso-Goldfields)
+ Table of Contents
+- [Project I: Soil, Water, and Crop Quality Assessment](#project-i-soil-water-and-crop-quality-assessment)
 - [Project II: Namdini Gold Project](#project-ii-namdini-gold-project)
 
 ---
 
-##**Project I: Soil, Water, and Crop Quality Assessment on Reclaimed Tailings Dam Sites at Abosso Goldfields**
+## **Project I: Soil, Water, and Crop Quality Assessment on Reclaimed Tailings Dam Sites at Abosso Goldfields**
 
  **Purpose**  
--The aim of this project was to determine the level of heavy metal contamination in soil and water on reclaimed tailings dam sites at Abosso Goldfields. Additionally, the project assessed the health risks associated with consuming crops harvested from these reclaimed sites. Below are some maps created during the project using ArcGIS Pro.
+The aim of this project was to determine the level of heavy metal contamination in soil and water on reclaimed tailings dam sites at Abosso Goldfields. Additionally, the project assessed the health risks associated with consuming crops harvested from these reclaimed sites. Below are some maps created during the project using ArcGIS Pro.
 
  **Year**  
 2022  
 
-### **Maps**  
+ **Maps**  
 - **Figure 1**: Damang mine infrastructure at Abosso, showing the three locations where soil samples were collected.  
   ![Figure 1](https://github.com/user-attachments/assets/90d414ab-7680-4d65-8184-d8c22a8f003f)  
 
@@ -31,6 +31,6 @@ Geotechnical consultancy and supervision of the construction of three dams durin
  **Timeframe**  
 October 2023 – August 2024  
 
-### **Maps**  
+ **Maps**  
 Below are some maps created during the project:  
 *(Include any map links or visuals if available)*  
