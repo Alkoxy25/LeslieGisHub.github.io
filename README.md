@@ -15,5 +15,6 @@ Figure3 shows measures of central tendencies of one of the locations visited for
 
 PROJECT: NAMDINI GOLD PROJECT
 ROLE:GEOTECH CONSULTANCY AND SUPERVISION OF THE BUILDING OF THREE DAMS DURING THE INFRASTRUCTURE CONSTRUCTION OF THE PROJECT
+
 TIMEFRAME:OCTOBER 2023 - AUGUST 2024
 Below is a few maps created during the project
