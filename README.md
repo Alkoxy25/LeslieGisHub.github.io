@@ -11,5 +11,8 @@ FIgure1 shows the Damang mine infrastructure at Abosso and the 3 location soils 
 Figure3 shows measures of central tendencies of one of the locations visited for soil sample
 ![Figure3](https://github.com/user-attachments/assets/67959229-c878-41d9-bb99-2de750fb4eea)
 
-ASDFGHJKL;
-JUGGFE
+
+
+PROJECT: NAMDINI GOLD PROJECT
+ROLE:GEOTECH CONSULTANCY AND SUPERVISION OF THE BUILDING OF THREE DAMS DURING THE INFRASTRUCTURE CONSTRUCTION OF THE PROJECT
+TIMEFRAME:OCTOBER 2023 - AUGUST 2024
