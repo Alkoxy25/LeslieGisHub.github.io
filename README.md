@@ -32,8 +32,7 @@ Geotechnical consultancy and supervision of the construction of three dams durin
 October 2023 – August 2024  
 
  **Maps**  
-Below are some maps created during the project:  
-*(Include any map links or visuals if available)*  
+Below are some maps created during the project:   
 
 ![Layout1](https://github.com/user-attachments/assets/30c4eade-6656-432a-921a-267812c58fd3)
 
