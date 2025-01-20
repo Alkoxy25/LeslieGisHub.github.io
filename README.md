@@ -1,7 +1,7 @@
 # GIS Portfolio
 
  Table of Contents
-- [Project I: Soil, Water, and Crop Quality Assessment](#FNAL-YEAR-PROJECT)
+- [Project I: FINAL YEAR PROJECT](#FNAL-YEAR-PROJECT)
 - [Project II: Namdini Gold Project](#project-ii-namdini-gold-project)
 
 ---
