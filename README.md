@@ -35,4 +35,7 @@ October 2023 – August 2024
 Below are some maps created during the project:   
 
 ![Layout1](https://github.com/user-attachments/assets/30c4eade-6656-432a-921a-267812c58fd3)
+![Layout2](https://github.com/user-attachments/assets/a7b76101-e2a7-4fb6-87ce-d3e1766c29c0)
+
+
 
