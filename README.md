@@ -1,12 +1,12 @@
 # GIS Portfolio
 
  Table of Contents
-- [Project I: Soil, Water, and Crop Quality Assessment](#project-i-soil-water-and-crop-quality-assessment-at-Abosso-Goldfields)
+- [Project I: Soil, Water, and Crop Quality Assessment](#FNAL-YEAR-PROJECT)
 - [Project II: Namdini Gold Project](#project-ii-namdini-gold-project)
 
 ---
 
-## **Project I: Soil, Water, and Crop Quality Assessment on Reclaimed Tailings Dam Sites at Abosso Goldfields**
+## **Project I: KNUST FINAL YEAR PROJECT**
 
  **Purpose**  
 The aim of this project was to determine the level of heavy metal contamination in soil and water on reclaimed tailings dam sites at Abosso Goldfields. Additionally, the project assessed the health risks associated with consuming crops harvested from these reclaimed sites. Below are some maps created during the project using ArcGIS Pro. 
