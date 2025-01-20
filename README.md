@@ -9,10 +9,7 @@
 ## **Project I: Soil, Water, and Crop Quality Assessment on Reclaimed Tailings Dam Sites at Abosso Goldfields**
 
  **Purpose**  
-The aim of this project was to determine the level of heavy metal contamination in soil and water on reclaimed tailings dam sites at Abosso Goldfields. Additionally, the project assessed the health risks associated with consuming crops harvested from these reclaimed sites. Below are some maps created during the project using ArcGIS Pro.
-
- **Year**  
-2022  
+The aim of this project was to determine the level of heavy metal contamination in soil and water on reclaimed tailings dam sites at Abosso Goldfields. Additionally, the project assessed the health risks associated with consuming crops harvested from these reclaimed sites. Below are some maps created during the project using ArcGIS Pro. 
 
  **Maps**  
 - **Figure 1**: Damang mine infrastructure at Abosso, showing the three locations where soil samples were collected.  
