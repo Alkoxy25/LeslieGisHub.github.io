@@ -10,8 +10,7 @@
 
  **Purpose**  
 The aim of this project was to determine the level of heavy metal contamination in soil and water on reclaimed tailings dam sites at Abosso Goldfields. Additionally, the project assessed the health risks associated with consuming crops harvested from these reclaimed sites. Below are some maps created during the project using ArcGIS Pro. 
-
- **Maps**  
+  
 - **Figure 1**: Damang mine infrastructure at Abosso, showing the three locations where soil samples were collected.  
   ![Figure 1](https://github.com/user-attachments/assets/90d414ab-7680-4d65-8184-d8c22a8f003f)  
 
