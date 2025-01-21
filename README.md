@@ -28,6 +28,7 @@ Geotechnical consultancy and supervision of the construction of three dams durin
 Below are some maps created during the project:   
 
 ![Layout1](https://github.com/user-attachments/assets/30c4eade-6656-432a-921a-267812c58fd3)
+Layout2
 ![Layout2](https://github.com/user-attachments/assets/2417a59d-ea97-4a39-bd69-c0a29c3b4b5e)
 
 
