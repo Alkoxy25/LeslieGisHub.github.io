@@ -37,7 +37,7 @@ Figure2
 
 ----
 
-##  Project III Memphis Campus Project
+##  **Project III Memphis Campus Project**
 
 **The Aim of these workflows was to was optimize distanced travelled by a waste collecction truck and during its routine collection on Memphis University Campus in the United States of America**
 
