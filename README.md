@@ -3,7 +3,7 @@
  Table of Contents
 - [Project I: FINAL YEAR PROJECT](#FNAL-YEAR-PROJECT)
 - [Project II: Namdini Gold Project](#project-ii-namdini-gold-project)
-- [Project III: Optimizing Distance in waste collection routine at Memphis](#Project III-Memphis-Project)
+- [Project III: Optimizing Distance in waste collection routine at Memphis](#Project-III-Memphis-Project).
 
 ---
 
