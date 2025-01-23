@@ -37,6 +37,11 @@ Figure2
 
 ## ** Project III Memphis Campus Project**
 
+**Aim was to was optimize travelled travelled by a waste collecction truck and during its routine collection on Memphis University Campus in the United States of America**
+**The following is results of several scenarious using network analysis(route analysis in arcgispro)**
+
+
+
 
 
 
