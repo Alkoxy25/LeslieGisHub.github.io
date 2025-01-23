@@ -35,7 +35,7 @@ Figure2
 
 ----
 
-## **Distance Optimization of waste collection routine at Memphis Campus University**
+## **Memphis Campus Project**
 
 
 
