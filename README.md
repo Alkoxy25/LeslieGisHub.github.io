@@ -23,7 +23,9 @@ This was a risk assessment done on soil,water amd crops at locations around tail
 ## **Project II: Namdini Gold Project**
 
  **Role**  
-Geotechnical consultancy and supervision of the construction of three dams during the infrastructure phase of the Namdini Gold Project.    
+Geotechnical consultancy and supervision of the construction of three dams during the infrastructure phase of the Namdini Gold Project.  
+
+**GIS was incoporated in Geotechnical workflows and played a crucial part in the advancement and completion of the project**
 
  **Maps**  
 Below are some maps created during the project:   
