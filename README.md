@@ -30,7 +30,7 @@ Below are some maps created during the project:
 Figure1
 ![Layout1](https://github.com/user-attachments/assets/30c4eade-6656-432a-921a-267812c58fd3)
 Figure2
-![Layout2](https://github.com/user-attachments/assets/ccc14238-0748-4759-bd54-4449ff9e266b)
+![Layout2](https://github.com/user-attachments/assets/77bd4412-144f-46bc-bb10-bed7bdeb0913)
 
 
 ----
