@@ -32,6 +32,9 @@ Figure1
 Figure2
 ![Layout2](https://github.com/user-attachments/assets/2417a59d-ea97-4a39-bd69-c0a29c3b4b5e)
 
+
+----
+
 ## **Distance Optimization of waste collection routine at Memphis Campus University**
 
 
