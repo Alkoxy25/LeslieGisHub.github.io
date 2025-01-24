@@ -39,9 +39,11 @@ Figure2
 
 ##  **Project III Memphis Campus Project**
 
-**The Aim of these workflows was to was optimize distanced travelled by a waste collecction truck and during its routine collection on Memphis University Campus in the United States of America**
+**The Aim of these workflows was to was optimize distanced travelled by a waste collecction truck during its routine collection on Memphis University Campus at Tennesse in the United States of America**
 
-**The following are results of several scenarious using network analysis(route analysis in arcgispro)**
+**contact**
+
+**The following are conclusions and results of several scenarious using network analysis(route analysis in arcgispro)**
 
 
 
