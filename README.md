@@ -45,7 +45,6 @@ Figure2
 
 **The following are conclusions and results of several scenarious using network analysis(route analysis in arcgispro)**
 
-Figure 1
 ![layout_Scenario_1](https://github.com/user-attachments/assets/1606c419-c424-4123-b064-f18828966e1d)
 ![Layout_scenario_2](https://github.com/user-attachments/assets/2067f3cd-cbdf-4b8a-84fb-431f20443f48)
 
