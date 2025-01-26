@@ -47,7 +47,7 @@ Figure2
 
 Figure 1
 ![layout_Scenario_1](https://github.com/user-attachments/assets/1606c419-c424-4123-b064-f18828966e1d)
-![Layout_scenario_2](https://github.com/user-attachments/assets/d1941f5c-d475-40f9-b6ae-700c3e61e805)
+![Layout_scenario_2](https://github.com/user-attachments/assets/2067f3cd-cbdf-4b8a-84fb-431f20443f48)
 
 
 
