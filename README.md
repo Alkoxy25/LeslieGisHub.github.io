@@ -50,6 +50,9 @@ Figure2
 ![Layout_Scenario_3](https://github.com/user-attachments/assets/9c099788-9626-44f8-8f4a-6003ece1d0c0)
 ![Layout_Scenario_4](https://github.com/user-attachments/assets/ed5fa722-425f-4bbd-9322-d93f6fa159fb)
 
+From the different scenario analysis, scenario 2 has the optimized path to visit all 18 wastebins with the least distance travelled of 5.824 km
+For efficiency in waste bin collection and with distance being optimized......Sequence of collection and route of Scenario 2 is encouraged to be used the Sanitation and waste collection team during their routine activities 
+
 
 
 
