@@ -45,10 +45,11 @@ Figure2
 
 **The following are conclusions and results of several  real and possible scenarious of the waste collector truck using network analysis(route analysis in arcgispro)**
 
-![layout_Scenario_1](https://github.com/user-attachments/assets/1606c419-c424-4123-b064-f18828966e1d)
-![Layout_scenario_2](https://github.com/user-attachments/assets/2067f3cd-cbdf-4b8a-84fb-431f20443f48)
-![Layout_Scenario_3](https://github.com/user-attachments/assets/9c099788-9626-44f8-8f4a-6003ece1d0c0)
-![Layout_Scenario_4](https://github.com/user-attachments/assets/ed5fa722-425f-4bbd-9322-d93f6fa159fb)
+![layout_Scenario_1](https://github.com/user-attachments/assets/9d0b224c-7620-4092-960f-c3f8d10ff169)
+![Layout_scenario_2](https://github.com/user-attachments/assets/10a3e826-5472-45b6-997e-248cbbc274de)
+![Layout_Scenario_3](https://github.com/user-attachments/assets/ed7dae92-3164-4184-a5f6-8f9691864fe0)
+![Layout_Scenario_4](https://github.com/user-attachments/assets/cc54715a-24ac-4691-a02b-b0f779dab2d9)
+
 
 From the different scenario analysis, scenario 2 has the optimized path to visit all 18 wastebins with the least distance travelled of 5.824 km
 For efficiency in waste bin collection and with distance being optimized......Sequence of collection and route of Scenario 2 is encouraged to be used the Sanitation and waste collection team during their routine activities 
