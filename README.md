@@ -51,13 +51,13 @@ Figure2
 ![Layout_Scenario_4](https://github.com/user-attachments/assets/1cb0b900-1cdf-4b8f-a4d1-611bbf101f4c)
 
 
-Based on the scenario analysis conducted, Scenario 2 demonstrates the most optimized route for waste collection, achieving a total distance of 5.824 km to service all 18 waste bins. This optimized path significantly enhances operational efficiency by minimizing travel distance.
+Based on the scenario analysis conducted, Scenario 2 demonstrates the most optimized route(least travel distance comparing all scenarios) for waste collection, achieving a total distance of 5.824 km to service all 18 waste bins. This optimized path significantly enhances operational efficiency by minimizing travel distance.
 
 To improve waste collection logistics, it is recommended that the Sanitation and Waste Collection Team adopt the sequence of collection and route from Scenario 2 during their routine operations. The GIS-based analysis underscores the importance of leveraging spatial optimization techniques to streamline waste management workflows, reduce fuel consumption, and improve service delivery.
 
 Incorporating the optimized route into operational practices will ensure a data-driven approach to waste bin collection, fostering sustainable and cost-effective waste management.
 
------
+------
 
 
 
