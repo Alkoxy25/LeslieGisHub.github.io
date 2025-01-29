@@ -44,7 +44,7 @@ Below are some maps created during the project:
 
 **These are the conclusions and results of several real and possible scenarious of the waste collector truck using network analysis(route analysis in arcgispro)**
 
-![layout_Scenario_1](https://github.com/user-attachments/assets/8f4ea3e1-61ea-4b16-a2c1-c19ac84c0322)
+![layout_Scenario_1](https://github.com/user-attachments/assets/4ab209a6-0dc3-4c93-9ef0-6490ff31dd68)
 ![Layout_scenario_2](https://github.com/user-attachments/assets/f981c60d-0689-4993-931e-96a9bb1f785c)
 ![Layout_Scenario_3](https://github.com/user-attachments/assets/1e199065-e332-46c1-997b-c227b2ae16d5)
 ![Layout_Scenario_4](https://github.com/user-attachments/assets/1cb0b900-1cdf-4b8f-a4d1-611bbf101f4c)
