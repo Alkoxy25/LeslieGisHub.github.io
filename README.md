@@ -41,12 +41,9 @@ Figure2
 
 **The Aim of these workflows was to was optimize distanced travelled by a waste collection truck during its routine collection on Memphis University Campus at Tennesse in the United States of America**
 
-**Disclaimer :
-This rearch project on waste collection optimization in Memphis, USA was conducted in collaboration with a master's student, where I provided technical support in GIS. In addition to contributing to the project, I also conducted a separate analysis based on my findings, drawing independent conclusions on optimizing waste collection efficiency using GIS techniques.**
+**Reasearch colleague contact in USA:boatengpato.pb@gmail.com**
 
-**contact:boatengpato.pb@gmail.com**
-
-**The following are conclusions and results of several  real and possible scenarious of the waste collector truck using network analysis(route analysis in arcgispro)**
+**These are the conclusions and results of several real and possible scenarious of the waste collector truck using network analysis(route analysis in arcgispro)**
 
 ![layout_Scenario_1](https://github.com/user-attachments/assets/8f4ea3e1-61ea-4b16-a2c1-c19ac84c0322)
 ![Layout_scenario_2](https://github.com/user-attachments/assets/f981c60d-0689-4993-931e-96a9bb1f785c)
