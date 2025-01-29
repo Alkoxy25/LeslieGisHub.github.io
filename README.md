@@ -42,7 +42,7 @@ Figure2
 **The Aim of these workflows was to was optimize distanced travelled by a waste collection truck during its routine collection on Memphis University Campus at Tennesse in the United States of America**
 
 **Disclaimer :
-This project on waste collection optimization in Memphis, USA was conducted in collaboration with a master's student, where I provided significant technical support in GIS, including spatial analysis, data processing, and route optimization. In addition to contributing to the project, I also conducted a separate analysis based on my findings, drawing independent conclusions on optimizing waste collection efficiency using GIS techniques.**
+This rearch project on waste collection optimization in Memphis, USA was conducted in collaboration with a master's student, where I provided technical support in GIS. In addition to contributing to the project, I also conducted a separate analysis based on my findings, drawing independent conclusions on optimizing waste collection efficiency using GIS techniques.**
 
 **contact:boatengpato.pb@gmail.com**
 
