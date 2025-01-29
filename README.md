@@ -1,7 +1,7 @@
 # GIS Portfolio
 
  Table of Contents
-- [Project I: FINAL YEAR THESIS](#project-i-FINAL-YEAR-THESIS)
+- [Project I: KNUST FINAL YEAR THESIS](#project-i-KNUST-FINAL-YEAR-THESIS)
 - [Project II: Namdini Gold Project](#project-ii-namdini-gold-project)
 - [Project III: Optimizing Distance in waste collection routine at Memphis](#Project-III-Memphis-Project).
 
