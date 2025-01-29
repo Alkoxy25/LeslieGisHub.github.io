@@ -1,13 +1,13 @@
 # GIS Portfolio
 
  Table of Contents
-- [Project I: FINAL YEAR PROJECT](#FNAL-YEAR-PROJECT)
+- [Project I: FINAL YEAR THESIS](#FNAL-YEAR-THESIS)
 - [Project II: Namdini Gold Project](#project-ii-namdini-gold-project)
 - [Project III: Optimizing Distance in waste collection routine at Memphis](#Project-III-Memphis-Project).
 
 ---
 
-## **Project I: KNUST FINAL YEAR PROJECT**
+## **Project I: KNUST FINAL YEAR THESIS**
 
  **Purpose**  
 This was a risk assessment done on soil,water amd crops at locations around tailings damsite at Abosso Goldfields Daamang. 
