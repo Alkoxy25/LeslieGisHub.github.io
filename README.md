@@ -1,10 +1,10 @@
 # GIS Portfolio
 
  Table of Contents
-- [Project I: KNUST FINAL YEAR THESIS](#project-i-KNUST-FINAL-YEAR-THESIS)
-- [Project II: Namdini Gold Project](#project-ii-namdini-gold-project)
+- [Project I: KNUST FINAL YEAR THESIS](#project-i-KNUST-FINAL-YEAR-THESIS).
+- [Project II: Namdini Gold Project](#project-ii-namdini-gold-project).
 - [Project III: Memphis Campus Project](#Project-III-Memphis-Campus-Project).
-- [Project IV: Tema Harbor Road RCS](#Project-IV-Tema-Harbor-Road-RCS).
+- [Project IV: Tema Harbor Road Road Condition Survey](#Project-IV-Tema-Harbor-Road-Road-Condition-Survey).
 ---
 
 ## **Project I: KNUST FINAL YEAR THESIS**
@@ -58,8 +58,17 @@ Incorporating the optimized route into operational practices will ensure a data-
 
 ------
 
-## **Project IV: Tema Harbor Road RCS**
+## **Project IV: Tema Harbor Road ROAD Condition Survey**
 
+**This project involved conducting a Road Condition Survey (RCS) on the Tema Harbour Road, one of Ghana’s most vital transport corridors. The primary objective of the RCS was to systematically assess the physical condition of the road to support decision-making on maintenance, rehabilitation, or upgrade planning.**
+
+As part of the survey, we evaluated surface defects such as cracks, potholes, rutting, edge failures, and drainage issues. The Tema Harbour Road serves as a key link between the port and inland destinations, and its condition has direct implications on freight efficiency, road safety, and overall economic productivity.
+The data collected was analyzed using GIS tools to map deterioration patterns, prioritize sections needing urgent intervention, and support asset management planning for sustainable infrastructure development.
+
+Map1
+![Last_left_summary](https://github.com/user-attachments/assets/0bbe15a5-b245-46f1-8936-9b927d9fa818)
+Map2
+![Last_right_final_summary](https://github.com/user-attachments/assets/50b10336-bcfc-4388-bb77-84125cb01352)
 
 
 
