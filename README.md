@@ -4,7 +4,7 @@
 - [Project I: KNUST FINAL YEAR THESIS](#project-i-KNUST-FINAL-YEAR-THESIS)
 - [Project II: Namdini Gold Project](#project-ii-namdini-gold-project)
 - [Project III: Memphis Campus Project](#Project-III-Memphis-Campus-Project).
-
+- [Project IV: Tema Harbor Road RCS](#Project-IV-Tema-Harbor-Road-RCS).
 ---
 
 ## **Project I: KNUST FINAL YEAR THESIS**
@@ -57,6 +57,8 @@ To improve waste collection logistics, it is recommended that the Sanitation and
 Incorporating the optimized route into operational practices will ensure a data-driven approach to waste bin collection, fostering sustainable and cost-effective waste management.
 
 ------
+
+## **Project IV: Tema Harbor Road RCS**
 
 
 
