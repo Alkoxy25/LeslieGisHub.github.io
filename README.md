@@ -63,16 +63,21 @@ Incorporating the optimized route into operational practices will ensure a data-
 **This project involved conducting a Road Condition Survey (RCS) on the Tema Harbour Road, one of Ghana’s most vital transport corridors. The primary objective of the RCS was to systematically assess the physical condition of the road to support decision-making on maintenance, rehabilitation, or upgrade planning.**
 
 As part of the survey, we evaluated surface defects such as cracks, potholes, rutting, edge failures, and drainage issues. The Tema Harbour Road serves as a key link between the port and inland destinations, and its condition has direct implications on freight efficiency, road safety, and overall economic productivity.
-The data collected was analyzed using GIS tools to map deterioration patterns, prioritize sections needing urgent intervention, and support asset management planning for sustainable infrastructure development.
+The data collected was analyzed using Visual Condition Index(VCI) and other condition criteria as well as GIS tools to map deterioration patterns, prioritize sections needing urgent intervention, and support asset management planning for sustainable infrastructure development.
 
 Map1
 ![Last_left_summary](https://github.com/user-attachments/assets/0bbe15a5-b245-46f1-8936-9b927d9fa818)
 Map2
 ![Last_right_final_summary](https://github.com/user-attachments/assets/50b10336-bcfc-4388-bb77-84125cb01352)
+ 
+The Plan for Rehabilitation and Maintenance were as according to the degrree of damage on sections of the dual carriageway which was later developed as follows;
+very good- no immediate maintenance required
+good - minor maintenance needed
+fair - preventive maintenance required
+poor -major maintenance needed
+very poor - complete reconstruction recommended
 
-
-
-
+------
 
 
 
