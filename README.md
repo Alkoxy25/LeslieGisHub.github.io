@@ -30,7 +30,9 @@ Geotechnical consultancy and supervision of the construction of three dams durin
 
 Below are some maps created during the project:   
 
+Map1
 ![Layout1](https://github.com/user-attachments/assets/30c4eade-6656-432a-921a-267812c58fd3)
+Map2
 ![Layout2](https://github.com/user-attachments/assets/77bd4412-144f-46bc-bb10-bed7bdeb0913)
 
 
@@ -44,9 +46,13 @@ Below are some maps created during the project:
 
 **These are the conclusions and results of several real and possible scenarious of the waste collector truck using network analysis(route analysis in arcgispro)**
 
+Map1
 ![layout_Scenario_1](https://github.com/user-attachments/assets/4ab209a6-0dc3-4c93-9ef0-6490ff31dd68)
+Map2
 ![Layout_scenario_2](https://github.com/user-attachments/assets/f981c60d-0689-4993-931e-96a9bb1f785c)
+Map3
 ![Layout_Scenario_3](https://github.com/user-attachments/assets/1e199065-e332-46c1-997b-c227b2ae16d5)
+Map4
 ![Layout_Scenario_4](https://github.com/user-attachments/assets/1cb0b900-1cdf-4b8f-a4d1-611bbf101f4c)
 
 
